@@ -3,7 +3,7 @@ Christmas tree written in Rust with ASCII Art
 
 ```sh
 wget -q https://git.io/tree.rs
-rustc tree.sr
+rustc tree.rs
 ./tree
 ```
 
